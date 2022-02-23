@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/royasavoj/Downloads/junit-4.12.jar",
+        "/Users/royasavoj/Downloads/junit-4.13.2.jar"
+    ]
+}
